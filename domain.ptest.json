@@ -1,0 +1,30 @@
+{
+  "defaultDomain": "domain.pddl",
+  "defaultOptions": "",
+  "cases": [
+    {
+      "problem": "problem.pddl",
+      "expectedPlans": [
+        "problem.pddl_2023-10-15T20-23-50.045Z.plan"
+      ]
+    },
+    {
+      "problem": "problem_2.pddl",
+      "expectedPlans": [
+        "problem_2.pddl_2023-10-15T20-24-44.077Z.plan"
+      ]
+    },
+    {
+      "problem": "problem_3.pddl",
+      "expectedPlans": [
+        "problem_3.pddl_2023-10-15T20-25-35.819Z.plan"
+      ]
+    },
+    {
+      "problem": "problem_4.pddl",
+      "expectedPlans": [
+        "problem_4.pddl_2023-10-15T20-25-57.425Z.plan"
+      ]
+    }
+  ]
+}

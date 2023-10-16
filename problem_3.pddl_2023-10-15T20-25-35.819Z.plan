@@ -1,0 +1,6 @@
+0.00100: (push boxc o2 o1)
+0.00200: (push boxb o6 o9)
+0.00300: (push boxb o9 o8)
+0.00400: (move o8 o9)
+0.00500: (set-adjacent o3 o9)
+0.00600: (push boxd o3 o9)
